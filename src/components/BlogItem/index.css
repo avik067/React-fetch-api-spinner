@@ -5,7 +5,11 @@
   border-radius: 5px;
   margin: 15px;
 }
-
+.blog-item-link {
+  padding: 2px;
+  margin: 2px;
+  border: 1px solid #8e8e8e;
+}
 .item-container {
   display: flex;
   flex-direction: column;
